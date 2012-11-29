@@ -6,11 +6,11 @@ First, put this bundle in your TextMate bundle directory:
 ``` bash
 # For Textmate 2:
 cd ~/Library/Application\ Support/Avian/Bundles/
-git clone git://github.com/phil-monroe/markdown-redcarpet.tmbundle.git
+git clone git://github.com/streeter/markdown-redcarpet.tmbundle.git
 
 # OR, for Textmate original:
 cd ~/Library/Application\ Support/TextMate/Bundles/
-git clone git://github.com/phil-monroe/markdown-redcarpet.tmbundle.git
+git clone git://github.com/streeter/markdown-redcarpet.tmbundle.git
 ```
 
 
